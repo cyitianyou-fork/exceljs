@@ -96,6 +96,7 @@
     "pageSetup"
   ],
   "dependencies": {
+    "@zip.js/zip.js": "^2.8.14",
     "archiver": "^5.0.0",
     "dayjs": "^1.8.34",
     "fast-csv": "^4.3.1",
